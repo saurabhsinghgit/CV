@@ -1,0 +1,124 @@
+.topContainer {
+  background-color: #e0ebe8;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container{
+  margin:100px 0;
+}
+
+.bottom-container {
+  background-color:#66bfbf;
+  padding: 50px 0 20px;
+}
+a{
+  color:#11999E;
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+  text-decoration: underline;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif !important;
+  color: #40514E !important;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive !important;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+h2{
+font-family: 'Montserrat', sans-serif !important;
+font-size: 2.5rem;
+color:#66BFBF;
+font-weight: normal;
+padding-bottom: 10px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif !important;
+  color:#11999E;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom:  none;
+  width:4%;
+  margin:100px  auto;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 320px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 230px;
+  top: 200px;
+}
+.skill-row{
+  width: 50%;
+  text-align: left;;
+  margin: 100px auto 100px auto;
+}
+p{
+    line-height: 2;
+}
+.java-image{
+  width: 25% !important;
+  float: left;
+  margin-right: 30px;
+}
+.webdev-image{
+  width: 25% !important;
+  float: right;
+  margin-left: 30px;
+
+}
+.bike-image{
+  width: 25% !important;
+  float: left;
+  margin-right: 30px;
+
+}
+.myButton {
+	background-color:#11cdd4;
+	border-radius:8px;
+	border:1px solid #11cdd4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Merriweather', serif !important;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#30E3CB;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.find{
+  width: 30%;
+  margin:40px auto 50px;
+}
+.footer-copyrite{
+  color: #EAF6F6;
+}
